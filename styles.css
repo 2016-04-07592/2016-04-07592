@@ -1,0 +1,74 @@
+/* CSS Document */
+body {background: RGBA(66,212,244,0.6);
+       font-family: Segoe, Segoe UI,sans-serif , Trebuchet MS, Verdana,"DejaVu Sans";}
+#login {
+	background-color: #2a2d35;
+	font-family: Segoe, Segoe UI,sans-serif , Trebuchet MS, Verdana,"DejaVu Sans";
+    float: right;
+	height: 10px;
+    width: 20%;
+	font-style: italic;
+    }
+#categories{
+	
+	margin-left:8cm;
+	height: 100px;
+    width: 65%;	
+}
+#catelectronics{  
+	margin-left:3cm;
+	
+} 
+#catwomencloth{  
+	margin-left:3cm;
+	
+} 
+#catwearable{  
+	margin-left:2.5cm;
+	
+}
+#menscloth{  
+	margin-left:3cm;
+	
+}
+
+
+table {
+	border-radius: 5px 10px 5px 10px / 10px 5px 10px 5px;
+border-radius: 5px;
+border-radius: 5px 10px / 10px;
+background: #848BDB;
+	font-style: italic;
+}
+td:hover{background-color:#b0f442;}
+a:link { text-decoration: none;
+        color: #2a2d35;
+         font-weight: bold; }
+
+/* visited link */
+a:visited {
+    color: #272833;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: #272833;
+}
+.button {
+    background-color: #2a2d35;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 3px 1px;
+    cursor: pointer;
+	border-radius: 8px;
+}
